@@ -8,7 +8,7 @@
 
 ## About
 
-This is a The first project of the FWD initiative on udacity. 
+This is the first project of the FWD initiative on udacity. 
 It discusses DOM Manipulation along with other javascript basics.  
 
 And the final output is a landing page with scrolling and observing functionalities over the page sections.
