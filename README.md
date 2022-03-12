@@ -20,4 +20,4 @@ And the final output is a landing page with scrolling and observing functionalit
 
 ## Live-Demo
 
-- you can try out the demo from [here](https://elshafeay.github.io/fwd-landing-page/)
+- you can try out the demo from [here](https://fwd-projects.github.io/fwd-landing-page/)
